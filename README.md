@@ -1,2 +1,2 @@
 # topic-modeling-wasserstein
-A reimplementation of the paper, Topic Modeling with Wasserstein Encoders, by Feng Nan et al.
+A reimplementation of the paper, _Topic Modeling with Wasserstein Encoders_, by Feng Nan et al.
